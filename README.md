@@ -18,8 +18,8 @@ To set up this project locally, follow these steps:
 1. Clone the repository:
 
 ```bash
-git clone [your-repository-url]
-cd [repository-name]
+git clone https://github.com/LICF01/LeetCodePractice.git
+cd LeetCodePractice
 ```
 
 2. Install dependencies using pnpm:
